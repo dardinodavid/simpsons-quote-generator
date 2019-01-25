@@ -1,13 +1,13 @@
 {
-  "main.css": "/simpsons-quote-generator/static/css/main.5129932b.chunk.css",
-  "main.js": "/simpsons-quote-generator/static/js/main.4ff7a71f.chunk.js",
-  "main.js.map": "/simpsons-quote-generator/static/js/main.4ff7a71f.chunk.js.map",
+  "main.css": "/simpsons-quote-generator/static/css/main.d00fad90.chunk.css",
+  "main.js": "/simpsons-quote-generator/static/js/main.d2326b8d.chunk.js",
+  "main.js.map": "/simpsons-quote-generator/static/js/main.d2326b8d.chunk.js.map",
   "static/js/1.d5dbbc27.chunk.js": "/simpsons-quote-generator/static/js/1.d5dbbc27.chunk.js",
   "static/js/1.d5dbbc27.chunk.js.map": "/simpsons-quote-generator/static/js/1.d5dbbc27.chunk.js.map",
   "runtime~main.js": "/simpsons-quote-generator/static/js/runtime~main.e3b2d7b4.js",
   "runtime~main.js.map": "/simpsons-quote-generator/static/js/runtime~main.e3b2d7b4.js.map",
-  "static/css/main.5129932b.chunk.css.map": "/simpsons-quote-generator/static/css/main.5129932b.chunk.css.map",
+  "static/css/main.d00fad90.chunk.css.map": "/simpsons-quote-generator/static/css/main.d00fad90.chunk.css.map",
   "index.html": "/simpsons-quote-generator/index.html",
-  "precache-manifest.391e1b07cf314a640a0ac57fa26c832b.js": "/simpsons-quote-generator/precache-manifest.391e1b07cf314a640a0ac57fa26c832b.js",
+  "precache-manifest.f801e5abb67565a045db6679f220a176.js": "/simpsons-quote-generator/precache-manifest.f801e5abb67565a045db6679f220a176.js",
   "service-worker.js": "/simpsons-quote-generator/service-worker.js"
 }
