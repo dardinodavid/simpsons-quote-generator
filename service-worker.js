@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/simpsons-quote-generator/precache-manifest.f7e93ae79748dc109e56f72caf757359.js"
+  "/simpsons-quote-generator/precache-manifest.87c2505932572d6b52687f798b97f932.js"
 );
 
 workbox.clientsClaim();

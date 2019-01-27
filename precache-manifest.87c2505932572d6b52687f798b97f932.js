@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/simpsons-quote-generator/static/css/main.d00fad90.chunk.css"
   },
   {
-    "revision": "a4e4d81883b2311d9c5b1ac99213de49",
+    "revision": "e151af3ce97160ee74e4a52a972ce237",
     "url": "/simpsons-quote-generator/index.html"
   }
 ];
